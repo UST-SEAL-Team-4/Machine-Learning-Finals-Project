@@ -138,3 +138,23 @@ Fitter prepared. Device is cuda:0
 
 2024-05-15T15:02:30.854550
 LR: 0.0001
+Fitter prepared. Device is cuda:0
+
+2024-05-15T15:04:07.006069
+LR: 0.0001
+Fitter prepared. Device is cuda:0
+
+2024-05-15T15:04:23.428968
+LR: 0.0001
+Fitter prepared. Device is cuda:0
+
+2024-05-15T15:04:41.757851
+LR: 0.0001
+Fitter prepared. Device is cuda:0
+
+2024-05-15T15:05:33.545958
+LR: 0.0001
+Fitter prepared. Device is cuda:0
+
+2024-05-15T15:05:53.817313
+LR: 0.0001
