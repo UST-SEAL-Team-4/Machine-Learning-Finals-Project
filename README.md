@@ -18,16 +18,16 @@ pip install -r requirements.txt
 
 #### 3. Download and Setup the VALDO Dataset
 
-1. Go here and follow the instructions on what you need to do to download and use their provided dataset (https://valdo.grand-challenge.org/).
-2. Place the dataset into the ../VALDODataset folder relative to this project directory.
+- Go here and follow the instructions on what you need to do to download and use their provided dataset (https://valdo.grand-challenge.org/).
+- Place the dataset into the ../VALDODataset folder relative to this project directory.
 
 #### 4. Download and Prepare the Pretrained Weights
 
-1. Go to: https://github.com/rwightman/efficientdet-pytorch/releases.
-2. Look for weights in the bottom.
-3. Find `tf_efficientdet_d7-f05bf714.pth` and download it.
-4. Move the downloaded file into the root of this project repository.
-5. Rename the file to `efficientdet_d7-f05bf714.pth`
+- Go to: https://github.com/rwightman/efficientdet-pytorch/releases.
+- Look for weights in the bottom.
+- Find `tf_efficientdet_d7-f05bf714.pth` and download it.
+- Move the downloaded file into the root of this project repository.
+- Rename the file to `efficientdet_d7-f05bf714.pth`
 
 ## Additional Notes
 
