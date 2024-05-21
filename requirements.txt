@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+ensemble_boxes
+albumentations
+effdet
+natsort
+nibabel
