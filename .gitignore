@@ -2,3 +2,8 @@
 efficientdet_d7-f05bf714.pth
 /Model_Save(Axial)_D7
 e_experiments
+
+tpe_det/Model_Save(Axial)_D7/
+
+__pycache__/
+*.pyc
